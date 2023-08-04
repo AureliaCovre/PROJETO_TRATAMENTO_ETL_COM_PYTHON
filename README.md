@@ -44,3 +44,5 @@ No nosso projeto trabalhamos com as ocorrências.
 - _codigo_ocorrencia2 = aeronave_
 - _codigo_ocorrencia3 = fator_contribuinte_
 - _codigo_ocorrencia4 = recomendação_
+
+
